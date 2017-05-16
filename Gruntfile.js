@@ -42,7 +42,7 @@ module.exports = function (grunt) {
      pages: {
        options: {
          remote: 'git@github.com:chikatun8/chikatun8.github.io.git',
-         branch: 'gh-pages'
+         branch: 'master'
        }
      }
    },
